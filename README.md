@@ -1,5 +1,5 @@
 # Automating amazon.in
-This was my round 2 in Alt***rik interview.
+This was my round 2 in AM interview.
 ## Scenario:
 Go to amazon.in, add a 4 star rated Apple laptop with the highest price to cart.
 ### Conditions:
